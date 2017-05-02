@@ -50,6 +50,10 @@ Sets the UIColor of the signature stroke
 
 Sets the background UIColor of the view
 
+* `circularDots: Bool`
+
+When true taps will be rendered as perfect circles, when false it is a rough short horizontal line.
+
 #### Optional Protocol Methods
 
 * `startedDrawing()`
